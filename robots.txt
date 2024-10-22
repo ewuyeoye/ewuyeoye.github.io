@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewuyeoye.github.io/RKV/sitemap_index.txt.gz
+Sitemap: https://ewuyeoye.github.io/UeP/sitemap_index.txt.gz
+Sitemap: https://ewuyeoye.github.io/hPe/sitemap_index.txt.gz
+Sitemap: https://ewuyeoye.github.io/kvd/sitemap_index.txt.gz
+Sitemap: https://ewuyeoye.github.io/lbD/sitemap_index.txt.gz
